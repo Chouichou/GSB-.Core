@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace GSB_.Core.Modele
+namespace GSB_.Core.Vue_Modele
 {
-    class Delegue
+    class GSB_Vue_Modele
     {
     }
 }
