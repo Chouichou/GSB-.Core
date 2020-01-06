@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace GSB_.Core.Modele
+namespace Medicaments
 {
-    class Visiteur
+    class Dosage
     {
     }
 }

@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace GSB_.Core.Modele
+namespace Praticiens
 {
-    class Responsable
+    class Type_Praticien
     {
     }
 }

@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using Utilisateurs;
 
-namespace GSB_.Core.Modele
+namespace Utilisateurs
 {
-    class Delegue
+    class Delegue:Visiteur
     {
     }
 }
