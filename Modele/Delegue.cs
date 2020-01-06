@@ -6,5 +6,6 @@ namespace GSB_.Core.Modele
 {
     class Delegue
     {
+        blabla
     }
 }
