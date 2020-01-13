@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Medicaments
-{//Oz
-    class Dosage
+namespace GSB_.Core.Modele.Utilisateurs
+{
+    class Rapport_Visite
     {
+
     }
 }

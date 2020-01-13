@@ -3,9 +3,8 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace Utilisateurs
-{
-    public class Visiteur:Utilisateur
+{//définition de l'activité complémentaire
+    class ActiviteComplementaire
     {
-
     }
 }

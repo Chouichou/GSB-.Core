@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace Praticiens
-{// spécialités et leurs codes associés
-    class Specialite
+{//type de médecin (hospitalier, de ville...) et type de lieu associé
+    class TypePraticien
     {
     }
 }

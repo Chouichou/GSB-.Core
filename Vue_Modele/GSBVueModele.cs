@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Medicaments
-{//Oz
-    class Dosage
+namespace GSB_.Core.Vue_Modele
+{
+    class GSBVueModele
     {
     }
 }

@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace Medicaments
-{
-    class Type_Individu
+{//Nom des labos et nom du chef de vente
+    //Anna
+    class Labo
     {
     }
 }

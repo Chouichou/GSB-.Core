@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace GSB_.Core.Vue_Modele
+namespace Utilisateurs
 {
-    class GSB_Vue_Modele
+    class Region
     {
     }
 }

@@ -4,7 +4,23 @@ using System.Text;
 
 namespace Medicaments
 {
-    class Medicament:IMedicament
+    public class Medicament : IMedicament
     {
+        public void Constituer()
+        {
+           
+        }
+
+        public void Formuler()
+        {
+           
+        }
+
+        public void Interagir()
+        {
+            
+        }
     }
+
+
 }

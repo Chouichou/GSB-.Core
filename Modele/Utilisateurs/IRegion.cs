@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Praticiens
+namespace GSB_.Core.Modele.Utilisateurs
 {
-    class Type_Praticien
+    interface IRegion
     {
     }
 }
