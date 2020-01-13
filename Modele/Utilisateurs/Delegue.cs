@@ -4,7 +4,7 @@ using System.Text;
 using Utilisateurs;
 
 namespace Utilisateurs
-{
+{//Anna
     class Delegue:Visiteur
     {
     }

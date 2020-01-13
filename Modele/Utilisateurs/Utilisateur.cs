@@ -13,12 +13,35 @@ namespace Utilisateurs
             
         }
 
-        public Medicament Offrir()
+        public void Consulter()
         {
             
         }
 
-        public ActiviteComplementaire Realiser()
+        public void Inviter()
+        {
+            
+        }
+
+
+
+        public void Posseder()
+        {
+            
+        }
+
+
+        public void Travailler()
+        {
+          
+        }
+
+        void IUtilisateur.Offrir()
+        {
+            
+        }
+
+        void IUtilisateur.Realiser()
         {
             
         }

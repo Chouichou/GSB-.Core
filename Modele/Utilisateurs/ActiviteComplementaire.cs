@@ -4,6 +4,7 @@ using System.Text;
 
 namespace Utilisateurs
 {//définition de l'activité complémentaire
+    //Channa
     class ActiviteComplementaire
     {
     }

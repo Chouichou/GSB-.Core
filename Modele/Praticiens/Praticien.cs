@@ -7,6 +7,7 @@ using System.Text;
 namespace Praticiens
 {
     class Praticien : IPraticien
+        //Jim
     {
         public void Prescrire()
         {

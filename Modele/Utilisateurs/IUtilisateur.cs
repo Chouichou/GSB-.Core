@@ -9,7 +9,11 @@ namespace Utilisateurs
     {
         public void Offrir();
         public void Realiser();
+        public void Inviter();
+        public void Posseder();
+        public void Travailler();
         public void Connecter();
+        public void Consulter();
 
     }
 }
