@@ -1,0 +1,15 @@
+﻿<Window x:Class="GSB_.Core.Vue.Vue_Anna"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GSB_.Core.Vue"
+        mc:Ignorable="d"
+        Title="Vue_Anna" Height="450" Width="800">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Margin="211,157,0,0" Text="Identifiant" TextWrapping="Wrap" VerticalAlignment="Top" Width="143" TextChanged="TextBox_TextChanged"/>
+        <Image Margin="44,17,548,277" Stretch="Fill" Source="/GSB_logo.jpg"/>
+        <TextBox HorizontalAlignment="Left" Margin="211,195,0,0" Text="Mot de passe" TextWrapping="Wrap" VerticalAlignment="Top" Width="143" TextChanged="TextBox_TextChanged_1"/>
+
+    </Grid>
+</Window>
